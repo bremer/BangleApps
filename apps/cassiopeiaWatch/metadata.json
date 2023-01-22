@@ -2,7 +2,7 @@
   "id": "cassiopeiaWatch",
   "name": "Cassiopeia Watch",
   "description": "Simple Clock",
-  "screenshots": [{ "url": "screens/screen_night.png" }, { "url": "screens/screen_day.png" }],
+  "screenshots": [{ "url": "screens/screenshot.png" }],
   "icon": "app.png",
   "version": "0.01",
   "type": "clock",

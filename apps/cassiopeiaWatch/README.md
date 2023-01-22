@@ -1,7 +1,5 @@
 # cassiopeiaWatch
 
-ToDo: new screenshots
-
 ![Screenshot](screens/screenshot.png)
 
 This is a fork from [cassioWatch](https://github.com/espruino/BangleApps/tree/master/apps/cassioWatch)
