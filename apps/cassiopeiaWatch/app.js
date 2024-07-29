@@ -92,7 +92,7 @@ function draw() {
 
   // TODO info line
   g.setFont("7x11Numeric7Seg", 2);
-  g.drawString(Math.round(Bangle.getHealthStatus("last").bpm), 30, 21);
+  g.drawString(Math.round(Bangle.getHealthStatus("last").bpm), 35, 21);
 
   g.setFont("7x11Numeric7Seg", 2);
   g.setFontAlign(-1, -1);
