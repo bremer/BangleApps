@@ -4,7 +4,7 @@
   "description": "Simple Clock",
   "screenshots": [{ "url": "screens/screenshot.png" }],
   "icon": "app.png",
-  "version": "0.01",
+  "version": "0.02",
   "type": "clock",
   "tags": "clock, retro",
   "supports": ["BANGLEJS2"],
