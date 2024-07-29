@@ -14,5 +14,8 @@
     { "name": "cassiopeiaWatch.app.js", "url": "app.js" },
     { "name": "cassiopeiaWatch.settings.js", "url": "settings.js" },
     { "name": "cassiopeiaWatch.img", "url": "icon.js", "evaluate": true }
+  ],
+  "data": [
+    { "name":"cassiopeiaWatch.settings.json" }
   ]
 }
